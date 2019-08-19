@@ -8,7 +8,8 @@ import com.hibernateinfo.util.HibernateUtil;
 
 /**
  * @author Pasha
- *
+ * Remember the golden rule: readable code is often faster code. 
+ * Produce readable code first and only change it if it proves to be too slow. 
  */
 public class EmployeeDAOImpl implements EmployeeDAO {
 

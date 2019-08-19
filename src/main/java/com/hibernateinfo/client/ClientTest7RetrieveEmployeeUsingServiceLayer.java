@@ -18,7 +18,7 @@ public class ClientTest7RetrieveEmployeeUsingServiceLayer {
 	}
 
 	private static void getEmployeeById(EmployeeService employeeService) {
-		Employee employee = employeeService.getEmployeeById(29);
+		Employee employee = employeeService.getEmployeeById(1);
 		System.out.println(employee);
 		}	
 }
